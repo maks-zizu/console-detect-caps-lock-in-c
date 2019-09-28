@@ -1,0 +1,4 @@
+  if (Console.CapsLock)
+            Console.WriteLine("caps ON");
+  else Console.WriteLine("caps OFF");
+            Console.ReadKey();
